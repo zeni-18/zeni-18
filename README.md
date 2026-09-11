@@ -18,7 +18,7 @@
 ### 📊 Stats
 
 - 450+ problems solved on Skillrack
-- 100+ on LeetCode, 50+ on CodeChef
+- 180+ on LeetCode, 50+ on CodeChef
 - Active in hackathons and competitive programming
 
 ### 🔗 Find me
