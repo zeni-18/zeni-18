@@ -1,4 +1,4 @@
-# Hi, I'm Naren 👋
+# Hi, I'm Naren 
 
 🎓 B.Tech Artificial Intelligence & Data Science student at Sri Eshwar College of Engineering (2024–2028)
 📍 Tamil Nadu, India
